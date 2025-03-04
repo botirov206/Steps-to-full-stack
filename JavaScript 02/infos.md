@@ -56,4 +56,4 @@ console.log(20 + 50) is ig going to be added
 
 Type Conversion is when you manually change a data type by using JS functions.
 
-[type coercion exercises] (type_coercion.js)
+[type coercion exercises](type_coercion.js)
