@@ -11,7 +11,7 @@ Get hoisted (declaration moves to the top, but not the value)
 ### Use case
 
 Old codebases used var a lot. For example, if you’re writing a simple script and don’t care about scope rules
-[text](var.js)
+[var File](var.js)
 
 ## let more predictible, safer and newer way of declaring a variable
 
@@ -23,7 +23,7 @@ No weird hoisting issues (you can't use it before declaring it)
 
 ### Use case
 We should use the let when we expect a value to change, like in the loop or when tracing something that updates
-[text](let.js)
+[let file](let.js)
 
 ## Const (Constant) for variables that won't change
 
@@ -37,7 +37,7 @@ Must be assigned a value not empty
 
 We must use the const for values that shouldn't change, like settings or fixed data.
 But that doesn't mean that value itself can't change, it can change like with objects or arrays
-[text](const.js)
+[const file](const.js)
 
 ## Type Coercion (Implicit Convercion)
 
@@ -55,3 +55,5 @@ console.log(20 + 50) is ig going to be added
 ## Type Conversion (Explicit Conversion)
 
 Type Conversion is when you manually change a data type by using JS functions.
+
+[type coercion exercises] (type_coercion.js)
