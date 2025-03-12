@@ -1,2 +1,2 @@
 # Steps-to-full-stack
-I'll enhance my knowledge throuhg the JavaSctipt by revising it and learning it from the beginning.
+I will enhance my core knowledge about JavaScript here by practising everyday.
