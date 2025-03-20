@@ -1,3 +1,4 @@
+
 /* 
     Challenge 1
 
@@ -55,6 +56,8 @@ for (const student of students){
 if (topStudent) {
     console.log(`\nThe top-performing student is ${topStudent} with an average grade of ${highestAvg}.`);
 }
+
+// firdavs is the best 👨🏻‍🦱
 
 
 
