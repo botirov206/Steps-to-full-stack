@@ -10,7 +10,7 @@
 
 */
 
-
+// lets refactor the code, by making it more dynamic and more optimized
 const students = [
     { 
         name: "Alice",
@@ -49,7 +49,7 @@ for (const student of students){
     } else if(avg < 50 && avg >= 0) {
         console.log(`Student ${student.name} failed with the average grade of ${avg}.`);
     } else {
-        console.log(`There are some issues with student ${student.name} average grade.`)
+        console.log(`There are some issues with student ${student.name}'s average grade. This might be due to invalid scores or an unexpected calculation.`)
     }
 }
 
